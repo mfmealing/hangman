@@ -6,7 +6,7 @@ This is an implementation of the hangman game, where the computer thinks of a wo
 Currently the user is asked to input a letter, this letter is checked to be alphabetical and length 1, and then it is compared to a random word to see if the letter is within this. 
 
 ## Installation and usage
-All files are currently Python files and so can simply be downloaded to run. All module used are from those pre-installed within Python.
+All files are currently Python files and so can simply be downloaded to run. All modules used are from those pre-installed within Python.
 
 ## File structure
 All Python files are found within the folder "hangman".
