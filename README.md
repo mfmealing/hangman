@@ -9,9 +9,9 @@ Currently the user is asked to input a letter, this letter is checked to be alph
 All files are currently Python files and so can simply be downloaded to run. All modules used are from those pre-installed within Python.
 
 ## File structure
-All Python files are found within the folder "hangman".
-milestone_2.py asks a user to input a single letter and this is checked to be length one and alphabetical.
-milestone_3.py expands upon this, and takes this checked letter (once chnaged to lowercase) and compares it to a randomly generated word to see if the letter is in it, telling the user the outcome.
-milestone_4.py once again expands on this, creating a class to house the functions. Lives are now included, and a life is lost when a letter that isn't in the word is entered. Correct inputs are now added to an array that will spell the word when all letters are entered, and letters are checked to make sure the same letter isn't input twice.
+All Python files are found within the folder "hangman".  
+milestone_2.py asks a user to input a single letter and this is checked to be length one and alphabetical.  
+milestone_3.py expands upon this, and takes this checked letter (once chnaged to lowercase) and compares it to a randomly generated word to see if the letter is in it, telling the user the outcome.  
+milestone_4.py once again expands on this, creating a class to house the functions. Lives are now included, and a life is lost when a letter that isn't in the word is entered. Correct inputs are now added to an array that will spell the word when all letters are entered, and letters are checked to make sure the same letter isn't input twice.  
 
 ## License information
