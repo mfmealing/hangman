@@ -3,7 +3,7 @@ fruit_list = ["apple", "banana", "pear", "grape", "strawberry"]
 
 class Hangman:
     '''
-    This class plays a game of hnagman with the user. A random word is selected and the user will input letters until either the word is guessed or all lives are lost
+    This class plays a game of hangman with the user. A random word is selected and the user will input letters until either the word is guessed or all lives are lost
 
     Attributes:
     word: The word to be guessed, picked randomly from the word_list. Remember to import the random module into your script
