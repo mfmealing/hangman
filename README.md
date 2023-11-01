@@ -3,7 +3,7 @@
 ## Project description
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts. 
 This is an implementation of the hangman game, where the computer thinks of a word and the user tries to guess it.
-Currently the user is asked to input a letter, this letter is checked to be alphabetical and length 1, and then it is compared to a random word to see if the letter is within this. If the letter is correct, the letter is added to a blank array that will spell out the letter when complete. If incorrect, a life will be lost. The user will be told whther the answer is correct or not and how many lives remain.
+Currently the user is asked to input a letter, this letter is checked to be alphabetical and length 1, and then it is compared to a random word to see if the letter is within this. If the letter is correct, the letter is added to a blank array that will spell out the letter when complete. If incorrect, a life will be lost. The user will be told whether the answer is correct or not and how many lives remain.
 
 ## Installation and usage
 All files are currently Python files and so can simply be downloaded to run. All modules used are from those pre-installed within Python.
